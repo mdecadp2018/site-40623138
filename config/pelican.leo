@@ -53,7 +53,7 @@
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -76,6 +76,7 @@
 <v t="leo.20181108223910.1"><vh>@edit 20181012.md</vh></v>
 <v t="leo.20181108223911.1"><vh>@edit 20181019.md</vh></v>
 <v t="leo.20181108223912.1"><vh>@edit 20181026.md</vh></v>
+<v t="leo.20181108232920.1"><vh>@edit 20181102.md</vh></v>
 </v>
 </v>
 </v>
