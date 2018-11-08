@@ -24,8 +24,26 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>Week1</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225303.1" a="E"><vh>Week2</vh>
+<v t="leo.20181108225303.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225308.1" a="E"><vh>Week3</vh>
+<v t="leo.20181108225308.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225310.1" a="E"><vh>Week4</vh>
+<v t="leo.20181108225310.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225313.1" a="E"><vh>Week5</vh>
+<v t="leo.20181108225313.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225315.1" a="E"><vh>Week6</vh>
+<v t="leo.20181108225315.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108225321.1" a="E"><vh>Week7</vh>
+<v t="leo.20181108225321.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -147,14 +165,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12">## Week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+登入 Github到連結 https://classroom.github.com/a/fGqXU9kO 領取期中作業, 然後每一週都錄製自己的學習過程放上網誌，並製作投影片、部落格紀錄每一週的學習結果。
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -327,6 +340,105 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181108225303.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225303.2">## Week2
+
+熟悉之前學過的github，然後準備使用Onshape繪圖網頁來繪圖。
+
+</t>
+<t tx="leo.20181108225308.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225308.2">## Week3
+
+開始學習Onshape繪圖工具，跟過去學的SolidWorks&amp;Inventor畫圖法類似，但是Onshape只要有網路即可在網頁上繪圖，這是與另外兩套軟體最不同的地方，且Onshape隨時儲存所有畫過的草圖，不怕資料不見，再來是這套軟體為全英文，剛好可以在畫圖時也學習英文。
+
+</t>
+<t tx="leo.20181108225310.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225310.2">## Week4
+
+先從最基本的圖開始熟悉Onshape的功能，在這練習中間曾經有不小心將網頁關掉過，但因為他的自動儲存救了回來，驗證了這套軟體的強大好處。
+</t>
+<t tx="leo.20181108225313.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225313.2">## Week5
+
+畫未來將要組裝的零件圖，準備利用Onshape將零件組裝成一座小機構。
+</t>
+<t tx="leo.20181108225315.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225315.2">## Week6
+
+這幾週以來主要的筆記內容
+
+</t>
+<t tx="leo.20181108225321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108225321.2">## Week7
+
+更改網路設定:
+
+控制台---&gt;網路和網際網路----&gt;乙太網路2
+
+--&gt;變更介面卡選項---&gt;內容---&gt;網際網路通訊協定第4版(IPv4)
+
+在使用DNS伺服器位置輸入:
+
+140.130.17.3
+
+140.130.1.2
+
+網際網路通訊協定第6版(IPv6):
+
+2001:288:6004:17::3 系上
+
+2001:288:6004:1::2 學校
+
+2001:b000:168::1 hinet
 </t>
 </tnodes>
 </leo_file>
