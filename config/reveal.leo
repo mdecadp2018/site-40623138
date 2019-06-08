@@ -24,10 +24,10 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>Week1</vh>
+<v t="leo.20180827201621.11" a="E"><vh>Week11</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225303.1" a="E"><vh>Week2</vh>
+<v t="leo.20181108225303.1" a="E"><vh>Week12</vh>
 <v t="leo.20181108225303.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181108225308.1" a="E"><vh>Week3</vh>
@@ -145,17 +145,20 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10"># MCAD 二甲 網際簡報
+<t tx="leo.20180827201621.10"># 機械設計工程系
 
-## 虎科大機械設計工程系
+## 協同產品設計實習
 
-### 40623138
+### 四設計二甲 40623138
+### 黃柏諺
 
 [網誌](https://mdecadp2018.github.io/site-40623138)
 
-[Blog](https://mdecadp2018.github.io/site-40623138/blog)
-
 [Github](https://github.com/mdecadp2018/site-40623138)
+
+[小組倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g5)
+
+
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -167,9 +170,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.12">## Week1
+<t tx="leo.20180827201621.12">## Week11
 
-* 登入 Github到連結 https://classroom.github.com/a/fGqXU9kO 領取期中作業, 然後每一週都錄製自己的學習過程放上網誌，並製作投影片、部落格紀錄每一週的學習結果。
+* 設計零件(球員、球桌)
+* 零件尺寸分析評估
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -397,7 +401,9 @@ make.start()
 
 * 畫未來將要組裝的零件圖，準備利用Onshape將零件組裝成一座小機構。
 
-https://drive.google.com/file/d/1ey82PE931xuio89bpCNdeCb1btKRgwGk/view?usp=sharing</t>
+https://drive.google.com/file/d/1ey82PE931xuio89bpCNdeCb1btKRgwGk/view?usp=sharing
+
+</t>
 <t tx="leo.20181108225315.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -413,7 +419,9 @@ https://drive.google.com/file/d/1ey82PE931xuio89bpCNdeCb1btKRgwGk/view?usp=shari
 
 https://drive.google.com/file/d/1BStlkx9qgUZ74mTmh-XD24oMp_QmVDx8/view?usp=sharing
 
-https://drive.google.com/file/d/1k1waXgAE8DRzziEZ6sKa4U7doSgnENYC/view?usp=sharing</t>
+https://drive.google.com/file/d/1k1waXgAE8DRzziEZ6sKa4U7doSgnENYC/view?usp=sharing
+
+</t>
 <t tx="leo.20181108225321.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -456,6 +464,8 @@ https://drive.google.com/file/d/1k1waXgAE8DRzziEZ6sKa4U7doSgnENYC/view?usp=shari
 
 * 在製作blog時發現近端推不上去，只要一推送，會將我的資料夾裡的blog全部刪掉，但是換電腦又可以。
 
-https://drive.google.com/file/d/1sgDI28fKn6ZFvYCn5wIObinNYknkhtmQ/view?usp=sharing</t>
+https://drive.google.com/file/d/1sgDI28fKn6ZFvYCn5wIObinNYknkhtmQ/view?usp=sharing
+
+</t>
 </tnodes>
 </leo_file>
