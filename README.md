@@ -1,7 +1,6 @@
-# 2018fall
-2018 Fall 計算機程式與電腦輔助設計實習課程分組倉儲
 
-github: https://github.com/mdecadp2018/site-40623138
+
+小組github: https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g5
 
 網誌: https://mdecadp2018.github.io/site-40623138
 
