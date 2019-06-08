@@ -30,16 +30,16 @@
 <v t="leo.20181108225303.1" a="E"><vh>Week12</vh>
 <v t="leo.20181108225303.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225308.1" a="E"><vh>Week3</vh>
+<v t="leo.20181108225308.1" a="E"><vh>Week13</vh>
 <v t="leo.20181108225308.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225310.1" a="E"><vh>Week4</vh>
+<v t="leo.20181108225310.1" a="E"><vh>Week14</vh>
 <v t="leo.20181108225310.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225313.1" a="E"><vh>Week5</vh>
+<v t="leo.20181108225313.1" a="E"><vh>Week15</vh>
 <v t="leo.20181108225313.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181108225315.1" a="E"><vh>Week6</vh>
+<v t="leo.20181108225315.1" a="E"><vh>Week16</vh>
 <v t="leo.20181108225315.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181108225321.1" a="E"><vh>Week7</vh>
@@ -174,7 +174,7 @@ vertical: body pane on the botton</t>
 
 * 設計零件(球員、球桌)
 * 零件尺寸分析評估
-
+* 導入V-rep
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -358,7 +358,7 @@ make.start()
 </t>
 <t tx="leo.20181108225303.2">## Week2
 
-* 熟悉之前學過的github，然後準備使用Onshape繪圖網頁來繪圖。
+* 人與人對打程式設計編譯
 
 </t>
 <t tx="leo.20181108225308.1">&lt;section data-markdown&gt;
@@ -370,9 +370,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108225308.2">## Week3
+<t tx="leo.20181108225308.2">## Week13
 
-* 開始學習Onshape繪圖工具，跟過去學的SolidWorks &amp; Inventor畫圖法類似，但是Onshape只要有網路即可在網頁上繪圖，這是與另外兩套軟體最不同的地方，且Onshape隨時儲存所有畫過的草圖，不怕資料不見，再來是這套軟體為全英文，剛好可以在畫圖時也學習英文。
+* 設計繪製回球機構
+* 模擬回球機構的動態
+* 修改程式錯誤
 
 </t>
 <t tx="leo.20181108225310.1">&lt;section data-markdown&gt;
