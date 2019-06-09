@@ -25,10 +25,18 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>Week11</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.12"><vh>week11</vh></v>
 </v>
 <v t="leo.20181108225303.1" a="E"><vh>Week12</vh>
-<v t="leo.20181108225303.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609120120.1" a="E"><vh>往下</vh>
+<v t="leo.20181108225303.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20190609120352.1" a="E"><vh>往下</vh>
+<v t="leo.20190609120352.2"><vh>最初構想</vh></v>
+</v>
+<v t="leo.20190609120355.1" a="E"><vh>往下</vh>
+<v t="leo.20190609120355.2"><vh>最初構想</vh></v>
+</v>
 </v>
 <v t="leo.20181108225308.1" a="E"><vh>Week13</vh>
 <v t="leo.20181108225308.2"><vh>投影片快捷鍵</vh></v>
@@ -347,16 +355,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108225303.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108225303.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181108225303.2">## Week2
+<t tx="leo.20181108225303.2">## Week12
 
 * 人與人對打程式設計編譯
 
@@ -374,7 +380,7 @@ make.start()
 
 * 設計繪製回球機構軌道
 * 修改程式錯誤
-* 人機對打程式編譯
+* 人與人程式對打模擬
 
 </t>
 <t tx="leo.20181108225310.1">&lt;section data-markdown&gt;
@@ -388,8 +394,9 @@ make.start()
 </t>
 <t tx="leo.20181108225310.2">## Week14
 
-* 人與人程式對打模擬
+* 人機對打程式編譯
 * 修改程式
+
 </t>
 <t tx="leo.20181108225313.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -467,6 +474,49 @@ make.start()
 
 https://drive.google.com/file/d/1sgDI28fKn6ZFvYCn5wIObinNYknkhtmQ/view?usp=sharing
 
+</t>
+<t tx="leo.20190609120120.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609120352.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609120352.2">## 最初構想
+
+最一開始的想法是想利用感測器，來偵測球的位置
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623136/gh-pages/images/first-idea.png"
+weight="300"height="200"&gt;&lt;/img&gt;</t>
+<t tx="leo.20190609120355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609120355.2">## 最初構想
+
+編寫程式時遇到的第一個瓶頸，就是不知道讓感測器去偵測球
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623136/gh-pages/images/first-program.png"
+weight="300"height="200"&gt;&lt;/img&gt;
 </t>
 </tnodes>
 </leo_file>
