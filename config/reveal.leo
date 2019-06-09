@@ -22,7 +22,7 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180827201621.10"><vh>封面</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>Week11</vh>
 <v t="leo.20180827201621.12"><vh>week11</vh></v>
@@ -38,21 +38,21 @@
 <v t="leo.20190609120355.2"><vh>最初構想</vh></v>
 </v>
 </v>
-<v t="leo.20181108225308.1"><vh>Week13</vh>
+<v t="leo.20181108225308.1"><vh>Week13 人與人對打</vh>
 <v t="leo.20190609121922.1"><vh>week13</vh>
 <v t="leo.20190609121922.2"><vh>week13</vh></v>
 </v>
-<v t="leo.20190609121921.1"><vh>往下2</vh>
+<v t="leo.20190609121921.1"><vh>weel13</vh>
 <v t="leo.20190609121921.2"><vh>Onshape繪製</vh></v>
 </v>
-<v t="leo.20190609121919.1"><vh>往下3</vh>
+<v t="leo.20190609121919.1"><vh>week13</vh>
 <v t="leo.20190609121919.2"><vh>人與人程式</vh></v>
 </v>
-<v t="leo.20190609121910.1"><vh>往下4</vh>
+<v t="leo.20190609121910.1"><vh>week13</vh>
 <v t="leo.20190609121910.2"><vh>人與人對打</vh></v>
 </v>
 </v>
-<v t="leo.20181108225310.1"><vh>Week14</vh>
+<v t="leo.20181108225310.1"><vh>Week14 人機對打</vh>
 <v t="leo.20190609123111.1"><vh>week14</vh>
 <v t="leo.20190609123111.2"><vh>week14</vh></v>
 </v>
@@ -66,7 +66,7 @@
 <v t="leo.20190609124400.2"><vh>人機對打</vh></v>
 </v>
 </v>
-<v t="leo.20181108225313.1"><vh>Week15</vh>
+<v t="leo.20181108225313.1"><vh>Week15電腦對打</vh>
 <v t="leo.20190609130608.1" a="E"><vh>week15</vh>
 <v t="leo.20190609130608.2"><vh>week15</vh></v>
 </v>
@@ -77,7 +77,7 @@
 <v t="leo.20190609130605.2"><vh>電腦對打</vh></v>
 </v>
 </v>
-<v t="leo.20181108225315.1" a="E"><vh>Week16</vh>
+<v t="leo.20181108225315.1"><vh>Week16</vh>
 <v t="leo.20190609131005.1" a="E"><vh>week16</vh>
 <v t="leo.20190609131005.2"><vh>week16</vh></v>
 </v>
@@ -91,7 +91,7 @@
 <v t="leo.20190609131215.2"><vh>PvA系統模擬</vh></v>
 </v>
 </v>
-<v t="leo.20190609131712.1" a="E"><vh>自評 心得</vh>
+<v t="leo.20190609131712.1"><vh>自評 心得</vh>
 <v t="leo.20190609131854.1" a="E"><vh>week16</vh>
 <v t="leo.20190609131854.2"><vh>自評</vh></v>
 </v>
@@ -578,14 +578,11 @@ weight="500"height="350"&gt;&lt;/img&gt;
 <t tx="leo.20190609123109.2">## Onsahpe
 
 &lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BP3.png"
-weight="300"height="250"&gt;&lt;/img&gt;
-
+weight="300"height="200"&gt;&lt;/img&gt;
 &lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BP5.png"
-weight="300"height="250"&gt;&lt;/img&gt;
-
-
+weight="300"height="200"&gt;&lt;/img&gt;
 &lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BPT.png"
-weight="300"height="250"&gt;&lt;/img&gt;</t>
+weight="300"height="200"&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609123111.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -616,7 +613,7 @@ weight="300"height="250"&gt;&lt;/img&gt;</t>
 </t>
 <t tx="leo.20190609124400.2">## 人機對打
 
-&lt;iframe width="850" height="450" src="https://youtu.be/GFXknVaN5EM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/GFXknVaN5EM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609130605.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -630,8 +627,7 @@ weight="300"height="250"&gt;&lt;/img&gt;</t>
 </t>
 <t tx="leo.20190609130605.2">## 電腦對打
 
-&lt;iframe width="850" height="450" src="https://youtu.be/E9FdTr4Rllw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/E9FdTr4Rllw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609130607.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -677,7 +673,7 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609131003.2">##  人與人對打系統模擬
 
-&lt;iframe width="850" height="450" src="https://youtu.be/o2FBa7nUyls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/o2FBa7nUyls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609131004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -691,7 +687,7 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609131004.2">##  繪製組合圖
 
-&lt;iframe width="850" height="450" src="https://youtu.be/8Xaxpe7ku7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/8Xaxpe7ku7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609131005.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -722,7 +718,7 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609131215.2">## 人機對打系統模擬
 
-&lt;iframe width="850" height="450" src="https://youtu.be/5JC8Q_5bkhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/5JC8Q_5bkhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609131712.1">&lt;section&gt;
 @others
