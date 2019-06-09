@@ -372,9 +372,9 @@ make.start()
 </t>
 <t tx="leo.20181108225308.2">## Week13
 
-* 設計繪製回球機構
-* 模擬回球機構的動態
+* 設計繪製回球機構軌道
 * 修改程式錯誤
+* 人機對打程式編譯
 
 </t>
 <t tx="leo.20181108225310.1">&lt;section data-markdown&gt;
@@ -386,9 +386,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108225310.2">## Week4
+<t tx="leo.20181108225310.2">## Week14
 
-* 先從最基本的圖開始熟悉Onshape的功能，在這練習中間曾經有不小心將網頁關掉過，但因為他的自動儲存救了回來，驗證了這套軟體的強大好處。
+* 人與人程式對打模擬
+* 修改程式
 </t>
 <t tx="leo.20181108225313.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -399,11 +400,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108225313.2">## Week5
+<t tx="leo.20181108225313.2">## Week15
 
-* 畫未來將要組裝的零件圖，準備利用Onshape將零件組裝成一座小機構。
+* 人機對打程式導入
+* 電腦對電腦程式導入
 
-https://drive.google.com/file/d/1ey82PE931xuio89bpCNdeCb1btKRgwGk/view?usp=sharing
 
 </t>
 <t tx="leo.20181108225315.1">&lt;section data-markdown&gt;
@@ -415,13 +416,11 @@ https://drive.google.com/file/d/1ey82PE931xuio89bpCNdeCb1btKRgwGk/view?usp=shari
 
 						
 </t>
-<t tx="leo.20181108225315.2">## Week6
+<t tx="leo.20181108225315.2">## Week16
 
-* 這幾週以來主要的筆記內容
-
-https://drive.google.com/file/d/1BStlkx9qgUZ74mTmh-XD24oMp_QmVDx8/view?usp=sharing
-
-https://drive.google.com/file/d/1k1waXgAE8DRzziEZ6sKa4U7doSgnENYC/view?usp=sharing
+* 繪製組合圖
+* Vrep人與人對打系統模擬
+* 人機對打系統模擬
 
 </t>
 <t tx="leo.20181108225321.1">&lt;section data-markdown&gt;
