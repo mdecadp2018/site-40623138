@@ -38,7 +38,7 @@
 <v t="leo.20190609120355.2"><vh>最初構想</vh></v>
 </v>
 </v>
-<v t="leo.20181108225308.1"><vh>Week13 人與人對打</vh>
+<v t="leo.20181108225308.1" a="E"><vh>Week13 人與人對打</vh>
 <v t="leo.20190609121922.1"><vh>week13</vh>
 <v t="leo.20190609121922.2"><vh>week13</vh></v>
 </v>
@@ -48,7 +48,7 @@
 <v t="leo.20190609121919.1"><vh>week13</vh>
 <v t="leo.20190609121919.2"><vh>人與人程式</vh></v>
 </v>
-<v t="leo.20190609121910.1"><vh>week13</vh>
+<v t="leo.20190609121910.1" a="E"><vh>week13</vh>
 <v t="leo.20190609121910.2"><vh>人與人對打</vh></v>
 </v>
 </v>
@@ -495,6 +495,7 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609121910.2">## 人與人對打
 
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/oxVToeZ3_Lk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190609121919.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
