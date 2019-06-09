@@ -24,37 +24,80 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>Week11</vh>
+<v t="leo.20180827201621.11"><vh>Week11</vh>
 <v t="leo.20180827201621.12"><vh>week11</vh></v>
 </v>
-<v t="leo.20181108225303.1" a="E"><vh>Week12</vh>
-<v t="leo.20190609120120.1" a="E"><vh>往下</vh>
+<v t="leo.20181108225303.1"><vh>Week12</vh>
+<v t="leo.20190609120120.1"><vh>往下</vh>
 <v t="leo.20181108225303.2"><vh>week12</vh></v>
 </v>
-<v t="leo.20190609120352.1" a="E"><vh>往下</vh>
+<v t="leo.20190609120352.1"><vh>往下</vh>
 <v t="leo.20190609120352.2"><vh>最初構想</vh></v>
 </v>
-<v t="leo.20190609120355.1" a="E"><vh>往下</vh>
+<v t="leo.20190609120355.1"><vh>往下</vh>
 <v t="leo.20190609120355.2"><vh>最初構想</vh></v>
 </v>
 </v>
-<v t="leo.20181108225308.1" a="E"><vh>Week13</vh>
-<v t="leo.20181108225308.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181108225308.1"><vh>Week13</vh>
+<v t="leo.20190609121922.1"><vh>week13</vh>
+<v t="leo.20190609121922.2"><vh>week13</vh></v>
 </v>
-<v t="leo.20181108225310.1" a="E"><vh>Week14</vh>
-<v t="leo.20181108225310.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609121921.1"><vh>往下2</vh>
+<v t="leo.20190609121921.2"><vh>Onshape繪製</vh></v>
 </v>
-<v t="leo.20181108225313.1" a="E"><vh>Week15</vh>
-<v t="leo.20181108225313.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609121919.1"><vh>往下3</vh>
+<v t="leo.20190609121919.2"><vh>人與人程式</vh></v>
+</v>
+<v t="leo.20190609121910.1"><vh>往下4</vh>
+<v t="leo.20190609121910.2"><vh>人與人對打</vh></v>
+</v>
+</v>
+<v t="leo.20181108225310.1"><vh>Week14</vh>
+<v t="leo.20190609123111.1"><vh>week14</vh>
+<v t="leo.20190609123111.2"><vh>week14</vh></v>
+</v>
+<v t="leo.20190609123109.1"><vh>week14</vh>
+<v t="leo.20190609123109.2"><vh>Onsahpe</vh></v>
+</v>
+<v t="leo.20190609123107.1"><vh>week14</vh>
+<v t="leo.20190609123107.2"><vh>人機對打程式編譯</vh></v>
+</v>
+<v t="leo.20190609124400.1"><vh>week14</vh>
+<v t="leo.20190609124400.2"><vh>人機對打</vh></v>
+</v>
+</v>
+<v t="leo.20181108225313.1"><vh>Week15</vh>
+<v t="leo.20190609130608.1" a="E"><vh>week15</vh>
+<v t="leo.20190609130608.2"><vh>week15</vh></v>
+</v>
+<v t="leo.20190609130607.1" a="E"><vh>week15</vh>
+<v t="leo.20190609130607.2"><vh>AvA程式</vh></v>
+</v>
+<v t="leo.20190609130605.1" a="E"><vh>week15</vh>
+<v t="leo.20190609130605.2"><vh>電腦對打</vh></v>
+</v>
 </v>
 <v t="leo.20181108225315.1" a="E"><vh>Week16</vh>
-<v t="leo.20181108225315.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609131005.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131005.2"><vh>week16</vh></v>
 </v>
-<v t="leo.20181108225321.1" a="E"><vh>Week7</vh>
-<v t="leo.20181108225321.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609131004.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131004.2"><vh> 繪製組合圖</vh></v>
 </v>
-<v t="leo.20181108232834.1" a="E"><vh>Week8</vh>
-<v t="leo.20181108232834.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190609131003.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131003.2"><vh>PvP系統模擬</vh></v>
+</v>
+<v t="leo.20190609131215.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131215.2"><vh>PvA系統模擬</vh></v>
+</v>
+</v>
+<v t="leo.20190609131712.1" a="E"><vh>自評 心得</vh>
+<v t="leo.20190609131854.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131854.2"><vh>自評</vh></v>
+</v>
+<v t="leo.20190609131803.1" a="E"><vh>week16</vh>
+<v t="leo.20190609131803.2"><vh>心得</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
@@ -367,113 +410,35 @@ make.start()
 * 人與人對打程式設計編譯
 
 </t>
-<t tx="leo.20181108225308.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108225308.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+
 
 
 						
 </t>
-<t tx="leo.20181108225308.2">## Week13
-
-* 設計繪製回球機構軌道
-* 修改程式錯誤
-* 人與人程式對打模擬
-
-</t>
-<t tx="leo.20181108225310.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108225310.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108225313.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
 
 
 						
 </t>
-<t tx="leo.20181108225310.2">## Week14
-
-* 人機對打程式編譯
-* 修改程式
-
-</t>
-<t tx="leo.20181108225313.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108225315.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
-</t>
-<t tx="leo.20181108225313.2">## Week15
-
-* 人機對打程式導入
-* 電腦對電腦程式導入
-
-
-</t>
-<t tx="leo.20181108225315.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225315.2">## Week16
-
-* 繪製組合圖
-* Vrep人與人對打系統模擬
-* 人機對打系統模擬
-
-</t>
-<t tx="leo.20181108225321.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108225321.2">##### Week7
-
-* 更改網路設定:
-
-控制台---&gt;網路和網際網路----&gt;乙太網路2
-
---&gt;變更介面卡選項---&gt;內容---&gt;網際網路通訊協定第4版(IPv4)
-
-在使用DNS伺服器位置輸入:
-
-140.130.17.3 &amp; 140.130.1.2
-
-網際網路通訊協定第6版(IPv6):
-
-2001:288:6004:17::3 系上
-
-2001:288:6004:1::2 學校
-
-2001:b000:168::1 hinet
-</t>
-<t tx="leo.20181108232834.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108232834.2">## Week8
-
-* 在製作blog時發現近端推不上去，只要一推送，會將我的資料夾裡的blog全部刪掉，但是換電腦又可以。
-
-https://drive.google.com/file/d/1sgDI28fKn6ZFvYCn5wIObinNYknkhtmQ/view?usp=sharing
-
 </t>
 <t tx="leo.20190609120120.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -499,8 +464,8 @@ https://drive.google.com/file/d/1sgDI28fKn6ZFvYCn5wIObinNYknkhtmQ/view?usp=shari
 
 最一開始的想法是想利用感測器，來偵測球的位置
 
-&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623136/gh-pages/images/first-idea.png"
-weight="300"height="200"&gt;&lt;/img&gt;</t>
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-idea.png"
+weight="500"height="350"&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609120355.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -515,8 +480,291 @@ weight="300"height="200"&gt;&lt;/img&gt;</t>
 
 編寫程式時遇到的第一個瓶頸，就是不知道讓感測器去偵測球
 
-&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623136/gh-pages/images/first-program.png"
-weight="300"height="200"&gt;&lt;/img&gt;
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-program.png"
+weight="700"height="500"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190609121910.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609121910.2">## 人與人對打
+
+</t>
+<t tx="leo.20190609121919.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609121919.2">## 人與人程式
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/PvP.png"
+weight="700"height="500"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190609121921.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609121921.2">## Onshape繪製
+
+繪製回球機構軌道
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/ball-road.png"
+weight="700"height="500"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190609121922.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609121922.2">## Week13
+
+* 設計繪製回球機構軌道
+* 修改程式錯誤
+* 人與人程式編譯
+* 人與人程式導入
+
+
+</t>
+<t tx="leo.20190609123107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609123107.2">## 人機對打程式編譯
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/PvA-1.png"
+weight="500"height="350"&gt;&lt;/img&gt;
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/PvA-2.png"
+weight="500"height="350"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190609123109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609123109.2">## Onsahpe
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BP3.png"
+weight="300"height="250"&gt;&lt;/img&gt;
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BP5.png"
+weight="300"height="250"&gt;&lt;/img&gt;
+
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/BPT.png"
+weight="300"height="250"&gt;&lt;/img&gt;</t>
+<t tx="leo.20190609123111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609123111.2">## Week14
+
+* 修改Onshape零件圖
+* 人機對打程式編譯
+* 人機對打程式導入
+
+
+</t>
+<t tx="leo.20190609124400.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609124400.2">## 人機對打
+
+&lt;iframe width="850" height="450" src="https://youtu.be/GFXknVaN5EM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190609130605.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609130605.2">## 電腦對打
+
+&lt;iframe width="850" height="450" src="https://youtu.be/E9FdTr4Rllw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190609130607.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609130607.2">## 電腦對打程式編譯
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/AvA.png"
+weight="700"height="500"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190609130608.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609130608.2">## Week15
+
+* 電腦對電腦程式編譯
+* 電腦對電腦程式導入
+
+
+</t>
+<t tx="leo.20190609131003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131003.2">##  人與人對打系統模擬
+
+&lt;iframe width="850" height="450" src="https://youtu.be/o2FBa7nUyls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190609131004.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131004.2">##  繪製組合圖
+
+&lt;iframe width="850" height="450" src="https://youtu.be/8Xaxpe7ku7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190609131005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131005.2">## Week16
+
+* 繪製組合圖
+* 人與人對打系統模擬
+* 人機對打系統模擬
+
+</t>
+<t tx="leo.20190609131215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131215.2">## 人機對打系統模擬
+
+&lt;iframe width="850" height="450" src="https://youtu.be/5JC8Q_5bkhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190609131712.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609131803.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131803.2">## 心得
+
+
+</t>
+<t tx="leo.20190609131854.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609131854.2">## 自評
+
+* 學員出席 :
+
+* Github 倉儲管理 :
+
+* Onshape 協同操作 :
+
+* V-rep 模擬 :
+
+* 程式開發 :
 </t>
 </tnodes>
 </leo_file>
