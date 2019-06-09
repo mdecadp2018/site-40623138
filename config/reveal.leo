@@ -38,7 +38,7 @@
 <v t="leo.20190609120355.2"><vh>最初構想</vh></v>
 </v>
 </v>
-<v t="leo.20181108225308.1" a="E"><vh>Week13 人與人對打</vh>
+<v t="leo.20181108225308.1"><vh>Week13 人與人對打</vh>
 <v t="leo.20190609121922.1"><vh>week13</vh>
 <v t="leo.20190609121922.2"><vh>week13</vh></v>
 </v>
@@ -48,18 +48,18 @@
 <v t="leo.20190609121919.1"><vh>week13</vh>
 <v t="leo.20190609121919.2"><vh>人與人程式</vh></v>
 </v>
-<v t="leo.20190609121910.1" a="E"><vh>week13</vh>
+<v t="leo.20190609121910.1"><vh>week13</vh>
 <v t="leo.20190609121910.2"><vh>人與人對打</vh></v>
 </v>
 </v>
-<v t="leo.20181108225310.1"><vh>Week14 人機對打</vh>
+<v t="leo.20181108225310.1" a="E"><vh>Week14 人機對打</vh>
 <v t="leo.20190609123111.1"><vh>week14</vh>
 <v t="leo.20190609123111.2"><vh>week14</vh></v>
 </v>
-<v t="leo.20190609123109.1"><vh>week14</vh>
+<v t="leo.20190609123109.1" a="E"><vh>week14</vh>
 <v t="leo.20190609123109.2"><vh>Onsahpe</vh></v>
 </v>
-<v t="leo.20190609123107.1"><vh>week14</vh>
+<v t="leo.20190609123107.1" a="E"><vh>week14</vh>
 <v t="leo.20190609123107.2"><vh>人機對打程式編譯</vh></v>
 </v>
 <v t="leo.20190609124400.1"><vh>week14</vh>
@@ -91,7 +91,7 @@
 <v t="leo.20190609131215.2"><vh>PvA系統模擬</vh></v>
 </v>
 </v>
-<v t="leo.20190609131712.1"><vh>自評 心得</vh>
+<v t="leo.20190609131712.1" a="E"><vh>自評 心得</vh>
 <v t="leo.20190609131854.1" a="E"><vh>week16</vh>
 <v t="leo.20190609131854.2"><vh>自評</vh></v>
 </v>
@@ -561,10 +561,9 @@ weight="700"height="500"&gt;&lt;/img&gt;
 <t tx="leo.20190609123107.2">## 人機對打程式編譯
 
 &lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/PvA-1.png"
-weight="500"height="350"&gt;&lt;/img&gt;
-
+weight="300"height="400"&gt;&lt;/img&gt;
 &lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/PvA-2.png"
-weight="500"height="350"&gt;&lt;/img&gt;
+weight="300"height="400"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609123109.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -739,7 +738,7 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609131803.2">## 心得
 
-
+這次的期末專案讓"協同"更加活化利用，而且也因為這樣分工更便利，再來是完成Vrep的手足球模擬，雖然還是沒有到最終所想要的，但是經過幾個禮拜的練習嘗試，已經可以完成簡易版的模擬了。
 </t>
 <t tx="leo.20190609131854.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -753,15 +752,15 @@ weight="700"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609131854.2">## 自評
 
-* 學員出席 :
+* 學員出席 : 20
 
-* Github 倉儲管理 :
+* Github 倉儲管理 : 12
 
-* Onshape 協同操作 :
+* Onshape 協同操作 : 7
 
-* V-rep 模擬 :
+* V-rep 模擬 : 12
 
-* 程式開發 :
+* 程式開發 : 12
 </t>
 </tnodes>
 </leo_file>
