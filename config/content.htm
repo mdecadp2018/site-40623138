@@ -1,10 +1,19 @@
 <h1>期末</h1>
 <p><span>國立虎尾科技大學 - 機械設計工程系 - 協同產品設計實習期末報告 - 40623138- 黃柏諺</span></p>
 <p><span><iframe width="550" height="308" src="//www.youtube.com/embed/leRdr1tM9Xk" allowfullscreen="allowfullscreen"></iframe></span></p>
-<h2>V-rep操作影片</h2><p><span>利用Python程式導入Vrep，讓手足球可以一邊自動控制，一邊手動操作</span><span>，進行<strong>人機對打</strong></span></p><p><iframe width="550" height="308" src="//www.youtube.com/embed/GFXknVaN5EM" allowfullscreen="allowfullscreen"></iframe></p><p>人與人對打(練習)</p><p><iframe width="550" height="308" src="//www.youtube.com/embed/tB2xRUNJhiM" allowfullscreen="allowfullscreen"></iframe></p><p>從Onshape匯入到V-rep開始，包含設定軸、位置、動力，程式匯入完成<strong>人與人對打</strong></p><p><iframe width="550" height="308" src="//www.youtube.com/embed/o2FBa7nUyls" allowfullscreen="allowfullscreen"></iframe></p><p>從Onshape匯入到V-rep開始，包含設定軸、位置、動力，程式匯入完成<b>人機對打</b></p><p><b><iframe width="550" height="308" src="//www.youtube.com/embed/5JC8Q_5bkhg" allowfullscreen="allowfullscreen"></iframe></b></p><p>利用V-rep安插轉軸與平移軸，完成<strong>Pinball</strong>的簡易模擬</p><p><b><iframe width="550" height="308" src="//www.youtube.com/embed/-gH39AOPRQQ" allowfullscreen="allowfullscreen"></iframe></b></p><h2>Onshape操作影片</h2>
+<h2>V-rep操作影片</h2>
+<p><span>利用Python程式導入Vrep，讓手足球可以一邊自動控制，一邊手動操作</span><span>，進行<strong>人機對打</strong></span></p>
+<p><iframe width="550" height="308" src="//www.youtube.com/embed/GFXknVaN5EM" allowfullscreen="allowfullscreen"></iframe></p>
+<p>人與人對打(練習)</p>
+<p><iframe width="550" height="308" src="//www.youtube.com/embed/tB2xRUNJhiM" allowfullscreen="allowfullscreen"></iframe></p>
+<p>從Onshape匯入到V-rep開始，包含設定軸、位置、動力，程式匯入完成<strong>人與人對打</strong></p>
+<p><iframe width="550" height="308" src="//www.youtube.com/embed/o2FBa7nUyls" allowfullscreen="allowfullscreen"></iframe></p>
+<p>從Onshape匯入到V-rep開始，包含設定軸、位置、動力，程式匯入完成<b>人機對打</b></p>
+<p><b><iframe width="550" height="308" src="//www.youtube.com/embed/5JC8Q_5bkhg" allowfullscreen="allowfullscreen"></iframe></b></p>
+<p></p><h2>Onshape操作影片</h2>
 <p>Onshape繪製組合圖影片</p>
 <p><iframe width="550" height="308" src="//www.youtube.com/embed/8Xaxpe7ku7g" allowfullscreen="allowfullscreen"></iframe></p>
-<h2>程式</h2>
+<h2>Pinball</h2><p>彈珠檯模擬影片</p><p>A為控制左邊擊球桿，L為控制右邊擊球桿，方向鍵上可控制發球桿</p><p><iframe width="550" height="308" src="//www.youtube.com/embed/RbTBDfC1ZaI" allowfullscreen="allowfullscreen"></iframe></p><p>彈珠檯練習影片<iframe width="550" height="308" src="//www.youtube.com/embed/-gH39AOPRQQ" allowfullscreen="allowfullscreen"></iframe></p><p></p><p></p><p></p><h2>程式</h2>
 <h3>人與人對打</h3>
 <pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
 import sys, math
@@ -246,7 +255,7 @@ def getballposition():
         vrep.simxSetJointTargetVelocity(clientID,P2_handle,Mvv,vrep.simx_opmode_oneshot_wait)
 getballposition()
 </pre>
-<h3>Pinball</h3>
+<h3>彈珠檯程式</h3>
 <pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
 import sys, math
 import keyboard 

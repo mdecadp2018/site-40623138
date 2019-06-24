@@ -61,57 +61,11 @@ $(function(){
 
 </ul>
 </confmenu></header>
-<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='期末.html'>期末</a><ul><li><a href='V-rep操作影片.html'>V-rep操作影片</a><li><a href='Onshape操作影片.html'>Onshape操作影片</a><li><a href='程式.html'>程式</a><ul><li><a href='人與人對打.html'>人與人對打</a><li><a href='人機對打.html'>人機對打</a><li><a href='電腦對打.html'>電腦對打</a><li><a href='Pinball.html'>Pinball</a></li></ul><li><a href='問題與解決.html'>問題與解決</a></li></ul><li><a href='2018.html'>2018</a><ul><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='組員操作影片.html'>組員操作影片</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>電腦對打 << <a href='電腦對打.html'>Previous</a> <a href='問題與解決.html'>Next</a> >> 問題與解決<br /><h1>Pinball</h1>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
-import sys, math
-import keyboard 
-#導入鍵盤
-# child threaded script: 
-# 內建使用 port 19997 若要加入其他 port, 在  serve 端程式納入
-#simExtRemoteApiStart(19999)
-  
-vrep.simxFinish(-1)
-  
-clientID = vrep.simxStart('127.0.0.1', 19997, True, True, 5000, 5)
-if clientID!= -1:
-    print("Connected to remote server")
-else:
-    print('Connection not successful')
-    sys.exit('Could not connect')
-
-KickBallV = 360  
-R_KickBallVel = (math.pi/180)*KickBallV
-B_KickBallVel = -(math.pi/180)*KickBallV
-
-errorCode,LR_handle=vrep.simxGetObjectHandle(clientID,'LR',vrep.simx_opmode_oneshot_wait)
-errorCode,RR_handle=vrep.simxGetObjectHandle(clientID,'RR',vrep.simx_opmode_oneshot_wait)
-errorCode,PL_handle=vrep.simxGetObjectHandle(clientID,'PL',vrep.simx_opmode_oneshot_wait)
-vrep.simxSetJointTargetVelocity(clientID,LR_handle,0,vrep.simx_opmode_oneshot_wait)
-vrep.simxSetJointTargetVelocity(clientID,RR_handle,0,vrep.simx_opmode_oneshot_wait)
-vrep.simxSetJointTargetVelocity(clientID,PL_handle,0,vrep.simx_opmode_oneshot_wait)
-#定義平移軸旋轉軸
-
-def speed(handle,speed):
-    errorCode=vrep.simxSetJointTargetVelocity(clientID,handle,speed,vrep.simx_opmode_oneshot_wait)
-
-
-
-vrep.simxStartSimulation(clientID,vrep.simx_opmode_oneshot_wait)
-#開始
-
-while True:
-    try:
-        if keyboard.is_pressed('a'):
-            speed(LR_handle,R_KickBallVel)
-        elif keyboard.is_pressed('l'):
-            speed(RR_handle,R_KickBallVel)
-        else:
-            speed(LR_handle,B_KickBallVel)
-            speed(RR_handle,B_KickBallVel)
-        if  keyboard.is_pressed('8'):
-            errorCode=vrep.simxSetJointTargetVelocity(clientID,PL_handle,-10,vrep.simx_opmode_oneshot_wait)
-        else:
-            errorCode=vrep.simxSetJointTargetVelocity(clientID,PL_handle,10,vrep.simx_opmode_oneshot_wait)
-    except:
-            break</pre>
-<p></p><br />電腦對打 << <a href='電腦對打.html'>Previous</a> <a href='問題與解決.html'>Next</a> >> 問題與解決</section></div></body></html>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='期末.html'>期末</a><ul><li><a href='V-rep操作影片.html'>V-rep操作影片</a><li><a href='Onshape操作影片.html'>Onshape操作影片</a><li><a href='Pinball.html'>Pinball</a><li><a href='程式.html'>程式</a><ul><li><a href='人與人對打.html'>人與人對打</a><li><a href='人機對打.html'>人機對打</a><li><a href='電腦對打.html'>電腦對打</a><li><a href='彈珠檯程式.html'>彈珠檯程式</a></li></ul><li><a href='問題與解決.html'>問題與解決</a></li></ul><li><a href='2018.html'>2018</a><ul><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='組員操作影片.html'>組員操作影片</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>Onshape操作影片 << <a href='Onshape操作影片.html'>Previous</a> <a href='程式.html'>Next</a> >> 程式<br /><h1>Pinball</h1>
+<p>彈珠檯模擬影片</p>
+<p>A為控制左邊擊球桿，L為控制右邊擊球桿，方向鍵上可控制發球桿</p>
+<p><iframe width="550" height="308" src="//www.youtube.com/embed/RbTBDfC1ZaI" allowfullscreen="allowfullscreen"></iframe></p>
+<p>彈珠檯練習影片<iframe width="550" height="308" src="//www.youtube.com/embed/-gH39AOPRQQ" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p></p>
+<p></p><br />Onshape操作影片 << <a href='Onshape操作影片.html'>Previous</a> <a href='程式.html'>Next</a> >> 程式</section></div></body></html>
